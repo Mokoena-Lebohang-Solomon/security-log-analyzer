@@ -1,2 +1,17 @@
-# security-log-analyzer
-This project simulates how cybersecurity analysts analyze system logs to detect suspicious activities such as repeated failed login attempts.  The program scans log files and generates a report showing possible brute-force attacks.
+# Security Log Analyzer
+
+This project simulates how cybersecurity analysts detect suspicious activity in system logs.
+
+Features
+- Detects failed login attempts
+- Identifies possible brute-force attacks
+- Generates a simple security report
+
+Technologies
+- Python
+- Log file analysis
+
+Cybersecurity Concepts
+- Security monitoring
+- Incident detection
+- Brute-force attack identification
